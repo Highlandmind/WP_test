@@ -1,0 +1,2 @@
+<?php
+// Some plugin data
